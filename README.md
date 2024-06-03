@@ -1,6 +1,6 @@
 # sfzlint-container
 
-<https://github.com/jisaacstone/sfzlint/>
+[rye](https://rye.astral.sh/) project for using [sfzlint](https://github.com/jisaacstone/sfzlint/)
 
 ## Generate project and install packages
 
